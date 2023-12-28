@@ -19,7 +19,7 @@ Link to the report:
  
 ### Top 10 cities in the bay area based on number of bubble tea shops:
 This plot shows top 10 cities within the bay area with largest number of bubble tea spots. Because of less data, I had put a filter so the visual only shows areas with 10 or more shops. 
-![image](https://github.com/yumnazia/BayAreaBubbleTeaAnalysis/assets/12965968/5583d234-ebae-4cf8-b1b8-35586298736b)
+
 
 As indicated by the visual, San Francisco and San Jose have the highest number of shops. 
 

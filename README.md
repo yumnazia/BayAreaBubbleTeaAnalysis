@@ -13,8 +13,10 @@ As an avid consumer of bubble tea myself, I could not help but do something abou
 
 ## Tableau Report:
 
-Link to the report: https://public.tableau.com/views/bubbleteaanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-
+Link to the report: 
+<iframe src="https://public.tableau.com/views/bubbleteaanalysis/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link:showVizHome=no&:embed=true"
+ width="810px" height="650px"></iframe>
+ 
 ### Top 10 cities in the bay area based on number of bubble tea shops:
 This plot shows top 10 cities within the bay area with largest number of bubble tea spots. Because of less data, I had put a filter so the visual only shows areas with 10 or more shops. 
 ![image](https://github.com/yumnazia/BayAreaBubbleTeaAnalysis/assets/12965968/5583d234-ebae-4cf8-b1b8-35586298736b)
